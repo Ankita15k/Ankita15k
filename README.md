@@ -1,8 +1,7 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdndnYWZlZWZhd3Fnd2dvZ2xjaWJ1bm9kbjgzMjB1ejZkOWJqczlwYSZlcD12aXN1YWxzX2VudHJhbmNlJmN0PWc/TEnF0g0oGv8uY8e5pL/giphy.gif" width="100" />
-  <h1>Hello, I'm Ankita! 👋</h1>
-</div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ankita15k&color=blueviolet" alt="Profile views" />
+</div>
 ---
 
 ### About Me
@@ -23,10 +22,9 @@ Here are some of the technologies I work with:
 | :--- | :--- | :--- | :--- | :--- |
 | **HTML** | **Node.js** | **MongoDB** | **JavaScript** | **Git** |
 | **CSS** | **Express.js** | **SQL** | **Python** | **Linux** |
-| **React** | | | **Java** | **Vercel** |
-| **TailwindCSS** | | | **C** | **Heroku** |
-| **Bootstrap** | | | **LaTeX** | **Redux** |
-| | | | | **Mongoose** |
+| **React** | | | **Java** | **Redux** |
+| **TailwindCSS** | | | **C** | **Mongoose** |
+| **Bootstrap** | | | **LaTeX** | |
 
 ---
 
@@ -49,6 +47,3 @@ Here are some of the technologies I work with:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankita15k&layout=compact&langs_count=10&theme=onedark&hide_border=true" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ankita15k&color=blueviolet" alt="Profile views" />
-</div>
