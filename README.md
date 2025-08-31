@@ -8,9 +8,9 @@
 
 I'm **Ankita Kumari**, a passionate **full-stack developer** and a student exploring the exciting world of **AI/ML**. I love building applications from front to back and am always eager to learn new technologies and improve my skills. My goal is to create impactful and user-friendly software that solves real-world problems.
 
-- 🔭 I'm currently focused on building my portfolio and learning more about **AI/ML** and **DevOps**.
-- 🌱 I’m currently expanding my knowledge in **React** and **Node.js**.
-- 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/ankitakk/).
+- **🔭** I'm currently focused on learning more about **AI/ML** and **DevOps**.
+- **🌱** Always eager to expand my knowledge in *Software Development*.
+- **📫** Connect with me on [LinkedIn](https://www.linkedin.com/in/ankitakk/).
 
 ---
 
@@ -20,11 +20,11 @@ Here are some of the technologies I work with:
 
 | Frontend | Backend | Databases | Languages | Tools & Platforms |
 | :--- | :--- | :--- | :--- | :--- |
-| **HTML** | **Node.js** | **MongoDB** | **JavaScript** | **Git** |
-| **CSS** | **Express.js** | **SQL** | **Python** | **Linux** |
-| **React** | | | **Java** | **Redux** |
-| **TailwindCSS** | | | **C** | **Mongoose** |
-| **Bootstrap** | | | **LaTeX** | |
+| *React* | *Node.js* | *MongoDB* | *JavaScript* | *Git* |
+| *HTML* | *Express.js* | *SQL* | *Python* | *Linux* |
+| *CSS* | *EJS* | | *Java* | *Redux* |
+| *TailwindCSS* | *REST APIs* | | *C* | *Mongoose* |
+| *Bootstrap* | | | *LaTeX* | |
 
 ---
 
