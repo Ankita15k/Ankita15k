@@ -53,7 +53,9 @@ Here are some of the technologies I work with:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ankita15k&show_icons=true&theme=tokyonight" alt="Ankita's GitHub stats" />
-  <br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankita15k&theme=tokyonight" alt="Ankita's GitHub Streak" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankita15k&layout=compact&langs_count=10&theme=onedark&hide_border=true" alt="Top Languages" />
 </div>
 
