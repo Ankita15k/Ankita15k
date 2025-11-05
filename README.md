@@ -44,7 +44,7 @@ Here are some of the technologies I work with:
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,python,html,css,js,react,redux,nodejs,expressjs,bootstrap,tailwindcss,git,github,githubactions,vscode,firebase,mysql,mongodb,typescript,arduino,linux,kali,ubuntu,latex,azure,aws,postman,docker,anaconda,flask,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=java,c,python,html,css,js,react,redux,nodejs,expressjs,bootstrap,tailwindcss,git,github,githubactions,vscode,firebase,mysql,mongodb,arduino,linux,ubuntu,latex,azure,aws,postman,docker,anaconda,flask,tensorflow" />
 </p>
 
 ---
@@ -53,9 +53,9 @@ Here are some of the technologies I work with:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ankita15k&show_icons=true&theme=tokyonight" alt="Ankita's GitHub stats" />
-  
+  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankita15k&theme=tokyonight" alt="Ankita's GitHub Streak" />
-  
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankita15k&layout=compact&langs_count=10&theme=onedark&hide_border=true" alt="Top Languages" />
 </div>
 
