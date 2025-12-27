@@ -2,20 +2,20 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Ankita15k&color=blueviolet" alt="Profile views" />
 </div>
-<h1 align="center">Hey there 👋, I'm Ankita Kumari</h1>
-<h3 align="center">💻 A passionate developer | 🚀 Tech Explorer | 💡 Lifelong Learner</h3>
+<h1 align="center">Hey there 👋, I'm Ankita .</h1>
+<h3 align="center">💻 A passionate developer | 🚀 Tech Explorer | 💡 AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Let's+Build+Something+Awesome!🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&center=true&width=600&lines=Building+Scalable+Web+Applications;Exploring+AI+%26+Machine+Learning;Turning+Ideas+Into+Impactful+Products🚀" alt="Typing SVG" />
 </p>
 
 ### 👩‍💻 About Me
 
 A passionate **Full-stack web developer** and a student exploring the exciting world of **Artificial Intelligence**. I am always eager to learn new technologies and improve my skills.
 
-- **🔭** I'm currently focused on learning more about **AI/ML** and **DevOps**.
-- **🌱** Always eager to expand my knowledge in *Software Development*.
-- **🎯** My goal: **To create impactful tech solutions & beautiful UIs**
+- 🔭 Currently focusing on **AI/ML, DevOps, and System Design**
+- 🌱 Constantly learning and refining **software engineering best practices**
+- 🎯 Long-term goal: **Build impactful, production-ready tech solutions**
 
 
 ---
@@ -24,27 +24,43 @@ A passionate **Full-stack web developer** and a student exploring the exciting w
 <p align="center">
 <a href="https://linkedin.com/in/ankitakk/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" /></a> &nbsp;&nbsp;&nbsp;
 <a href="mailto:ankitakk615@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://kaggle.com/ankita15k" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=kaggle" /></a>
+
 </p>
 
 ---
 
-### 💻 Skills & Technologies
+## 🧰 Core Technical Skills
 
-Here are some of the technologies I work with:
+### Frontend
+- React, Redux
+- HTML5, CSS3, Tailwind CSS, Bootstrap
+- Responsive & accessible UI design
 
-| Frontend | Backend | Databases | Languages | Tools & Platforms |
-| :--- | :--- | :--- | :--- | :--- |
-| *React* | *Node.js* | *MongoDB* | *JavaScript* | *Git* |
-| *HTML* | *Express.js* | *SQL* | *Python* | *Linux* |
-| *CSS* | *EJS* | | *Java* | *Redux* |
-| *TailwindCSS* | *REST APIs* | | *C* | *Mongoose* |
-| *Bootstrap* | | | *LaTeX* | |
+### Backend
+- Node.js, Express.js
+- RESTful APIs
+- Authentication & authorization
+
+### Databases
+- MongoDB, MySQL
+- Schema design & query optimization
+
+### Programming Languages
+- JavaScript, Python, Java, C
+- Familiar with data structures & algorithms
+
+### Tools & Platforms
+- Git & GitHub, GitHub Actions
+- Docker, Postman
+- Linux, VS Code
+- AWS, Azure (basics)
 
 ---
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,python,html,css,js,react,redux,nodejs,expressjs,bootstrap,tailwindcss,git,github,githubactions,vscode,firebase,mysql,mongodb,arduino,linux,ubuntu,latex,azure,aws,postman,docker,anaconda,flask,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=java,c,python,html,css,js,react,redux,nodejs,expressjs,bootstrap,tailwindcss,git,github,githubactions,vscode,firebase,mysql,mongodb,linux,latex,azure,aws,postman,docker,anaconda,flask,tensorflow" />
 </p>
 
 ---
@@ -64,14 +80,13 @@ Here are some of the technologies I work with:
 
 ### 🎗️ My Interests
 
-- **Open Source:** I believe in the power of collaboration and am always looking for ways to contribute to open-source projects.
-- **Web Development:** I enjoy creating dynamic and responsive web applications.
-- **Data Science & AI/ML:** I am fascinated by data and machine learning and am keen on using these technologies to build intelligent systems.
-- **DevOps:** I'm exploring the world of DevOps to streamline the development and deployment process.
-- **Gaming:** When I'm not coding, I enjoy diving into the world of gaming.
-- **Software Development:** I am passionate about all aspects of the software development life cycle, from design to deployment.
+- Open-Source Contribution
+- Full-Stack Web Development
+- Artificial Intelligence & Machine Learning
+- DevOps & Cloud Computing
+- System Design & Scalable Architectures
 
 ---
 
-<h3 align="center">✨ Thanks for visiting! Keep coding and keep shining ✨</h3>
+<h3 align="center">✨ Let’s build something meaningful 🚀 ✨</h3>
 
